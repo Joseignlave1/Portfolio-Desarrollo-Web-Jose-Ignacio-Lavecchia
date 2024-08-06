@@ -4,7 +4,7 @@
 
 
 <div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pwdXowOXQ3NWpnNjNrNTl1MHk4bDNmeGU1YmRpcWZvNHdnZ3N1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkwSxuckDvf7q/giphy.gif" width="200"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pwdXowOXQ3NWpnNjNrNTl1MHk4bDNmeGU1YmRpcWZvNHdnZ3N1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkwSxuckDvf7q/giphy.gif" width="400"/>
 </div>
 
 ### Materia: Desarrollo Web y Mobile
